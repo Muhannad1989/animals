@@ -1,2 +1,1 @@
-anytext
-this is the second txt
+ 
