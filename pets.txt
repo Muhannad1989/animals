@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-cat dog horse
-cow donkey
-=======
 cat dog monkey
->>>>>>> ce98674854296a06c83a022f79a4ce7379fcd47a
